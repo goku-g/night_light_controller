@@ -1,0 +1,10 @@
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+*-backups/
+*.gbr
+*.gbrjob
+*.net
+*.drl
+*.dsn
